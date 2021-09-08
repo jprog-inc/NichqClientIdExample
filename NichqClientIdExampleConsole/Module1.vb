@@ -1,6 +1,10 @@
 ﻿
 Module Module1
 
+    'These comments are not intended to provide any useful information about this code.
+    'I am just testing making some code change and pushing it to the repository using the GitKraken GUI tool.
+    'Feel free to delete this.
+
     Sub Main()
 
         Try
